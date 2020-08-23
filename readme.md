@@ -24,7 +24,7 @@ collaboration, technical communication and self-tuition.
 
 Thanks to the wealth of knowledge shared by the community I've been able to train myself in full-stack development. 
 
-I started by learning JavaScript, then complemented this with HTML and CSS to produce static pages. I developed my back-end skills, learning to create MySQL databases and manage them using homemade Express APIs. I've also tinkered with MongoDB and Mongoose. I've created several React front-ends with responsive stlying. I've also produced testing suites using Jest, Chai, Mocha, Supertest and React Testing Library.
+I started by learning JavaScript, then complemented this with HTML and CSS to produce static pages. I developed my back-end skills, learning to create MySQL databases and interact with them using an Express API. I've also tinkered with MongoDB and Mongoose. I've created several React front-end apps with responsive stlying. I've also produced testing suites using Jest, Mocha, Chai, Supertest and React Testing Library.
 
 Once I find employment in the industry I'll continue to cultivate my skills in my own time, as much for entertainment as for proffessional reasons. 
 
@@ -35,9 +35,9 @@ As a professional scientist I've a lot of experience of project planning. The pr
 
 Flexibility is also vital. Circumstances can change and new information can justify a change of approach mid-project. I'm sufficiently flexible to encorporate new approaches into existing strategy with minimal disruption.
 
-### 👾 Troubleshooting
+### 🔬 Troubleshooting
 
-
+Errors happen, especially when dealing with unfamiliar technologies, and learning to manage errors is a vital skill. I've a good eye for detail and I'm experienced at determining likely sources of error and methodical debugging. This is a vital skill for a chemist as physical systems can be extremely finicky. This skill translates well into coding.
 
 
 ## Projects
