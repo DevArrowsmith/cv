@@ -8,7 +8,7 @@
 Following a successful career as a senior research chemist
 I’m seeking my first position as a junior web developer.
 
-I initially coded in JavaScript as a hobbyist. As my skills developed and I got to know people in the industry I came to realise how much I'd love to code proffesionally. I started an intensive self-training regime, progrssing my skills from coding JavaScript functions to developing full-stack apps using contemporary technologies. 
+I initially coded in JavaScript as a hobbyist. As my skills developed and I got to know people in the industry I came to realise how much I'd love to code professionally. I started an intensive self-training regime, progressing my skills from coding JavaScript functions to developing full-stack apps using contemporary technologies. 
 
 My career as a scientist endowed me with numerous
 complementary skills such as project design and management,
@@ -26,14 +26,14 @@ Thanks to the wealth of knowledge shared by the community I've been able to trai
 
 I started by learning JavaScript, then complemented this with HTML and CSS to produce static pages. I developed my back-end skills, learning to create MySQL databases and interact with them using an Express API. I've also tinkered with MongoDB and Mongoose. I've created several React front-end apps with responsive stlying. I've also produced testing suites using Jest, Mocha, Chai, Supertest and React Testing Library.
 
-Once I find employment in the industry I'll continue to cultivate my skills in my own time, as much for entertainment as for proffessional reasons. 
+Once I find employment in the industry I'll continue to cultivate my skills in my own time, as much for entertainment as for professional reasons. 
 
 
 ### ✏️ Project Planning
 
 As a professional scientist I've a lot of experience of project planning. The profession involves devising solutions to complex problems and selecting optimal routes on the basis of cost, efficiency, urgency and other factors. It encourages careful pre-consideration prior to action. I apply this methodology to coding. I take a reasonable amount of time to devise my approach prior to commencing a project.
 
-Flexibility is also vital. Circumstances can change and new information can justify a change of approach mid-project. I'm sufficiently flexible to encorporate new approaches into existing strategy with minimal disruption.
+Flexibility is also vital. Circumstances can change and new information can justify a change of approach mid-project. I'm sufficiently flexible to incorporate new approaches into existing strategy with minimal disruption.
 
 ### 🔬 Troubleshooting
 
