@@ -19,7 +19,6 @@ complementary skills such as project design and management,
 collaboration, technical communication and self-tuition.
 
 ## Skills
----
 
 ### 💻 Technologies
 
@@ -42,7 +41,6 @@ Flexibility is also vital. Circumstances can change and new information can just
 
 
 ## Projects
----
 
 ## 🚗 [TinyCarList](https://gummicode.github.io/tiny-car-list-app/#/)
 
@@ -64,4 +62,41 @@ This app provides a visual representation of people currently in space. Data is 
 
 The git repo can be viewed [here](https://github.com/GummiCode/spacefrens).
 
+
+## Employment
+
+### Senior Research & Development Chemist
+#### *Sherwin-Williams Protective & Marine Coatings (April 2018 - Present)*
+
+* Managed continuous parallel projects.
+* Developed next-generation coatings.
+* Performed client demos.
+
+### Research & Development technician
+#### *Sherwin-Williams Protective & Marine Coatings (February 2018 - April 2018)*
+
+* Prepared intumescent coating samples.
+* Performed furnace trials to test fireproofing
+capabilities.
+
+### Senior Research & Development Chemist
+#### *Tradebe Solvent Recycling Ltd (June 2014 - August 2016)*
+
+* Developed original chemical recycling processes. 
+* Proved methods in lab trials.
+* Facilitated industrial scale-up.
+
+### Research & Development Technician
+#### *Tradebe Solvent Recycling Ltd (May 2011 - June 2014)*
+
+* Analysed diverse chemical waste streams to identify viable recovery routes.
+* Facilitated lab activities.
+
+## Education
+
+### Chemistry MSc by Research
+#### *University of Manchester (2016 - 2017)*
+
+### Chemistry BSc (2:1 Hons.)
+#### *University of Liverpool (2006 - 2010)*
 
