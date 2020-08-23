@@ -8,11 +8,7 @@
 Following a successful career as a senior research chemist
 I’m seeking my first position as a junior web developer.
 
-I initially coded in JavaScript as a hobbyist. As my skills
-developed I came to realise that this would make a fantastic
-career. I started an intensive self-training regime to progress my
-skills from coding JavaScript functions to developing full-stack
-apps using contemporary technologies.
+I initially coded in JavaScript as a hobbyist. As my skills developed and I got to know people in the industry I came to realise how much I'd love to code proffesionally. I started an intensive self-training regime, progrssing my skills from coding JavaScript functions to developing full-stack apps using contemporary technologies. 
 
 My career as a scientist endowed me with numerous
 complementary skills such as project design and management,
@@ -39,10 +35,14 @@ As a professional scientist I've a lot of experience of project planning. The pr
 
 Flexibility is also vital. Circumstances can change and new information can justify a change of approach mid-project. I'm sufficiently flexible to encorporate new approaches into existing strategy with minimal disruption.
 
+### 👾 Troubleshooting
+
+
+
 
 ## Projects
 
-## 🚗 [TinyCarList](https://gummicode.github.io/tiny-car-list-app/#/)
+### 🚗 [TinyCarList](https://gummicode.github.io/tiny-car-list-app/#/)
 
 TinyCarList is a mock car listings app. This full-stack project includes a React front-end and a back-end consisting of a MySQL database managed by Express controllers. The front-end procedurally generates listing cards from API datasets.
 
@@ -50,13 +50,13 @@ The UI includes a splash page which displays a featured listing with a nifty slo
 
 The [front-end](https://github.com/GummiCode/tiny-car-list-app) is hosted on GitHub pages. The [back-end](https://github.com/GummiCode/tiny-car-list-api) is on Heroku.
 
-## 🛰️ [NASA Image Search](https://gummicode.github.io/nasa-image-search/)
+### 🛰️ [NASA Image Search](https://gummicode.github.io/nasa-image-search/)
 
 A search engine for the [NASA Image and Video Library](https://api.nasa.gov/). This React app performs state-based searches of the library using image metadata, parses images from the response body and procedurally renders them. API errors are handled and appropriate alert messages are displayed in the UI. 
 
 The git repo can be viewed [here](https://github.com/gummicode/nasa-image-search).
 
-## 👩‍🚀 [SpaceFrens](https://spacefrens.herokuapp.com/)
+### 👩‍🚀 [SpaceFrens](https://spacefrens.herokuapp.com/)
 
 This app provides a visual representation of people currently in space. Data is fetched from the open-notify.org API and rendered as an animated display. Assets were produced in Affinity Designer. A proxy API was set up to allow the browser to receive HTTP data from open-notify.org.
 
