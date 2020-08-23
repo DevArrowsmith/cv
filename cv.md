@@ -27,11 +27,17 @@ collaboration, technical communication and self-tuition.
 
 ### 📚 Self-Tuition
 
-Thanks to the wealth of knowledge shared by the community I've been able to train myself to create full-stack web apps.
+Thanks to the wealth of knowledge shared by the community I've been able to train myself in full-stack development. 
 
 I started by learning JavaScript, then complemented this with HTML and CSS to produce static pages. I developed my back-end skills, learning to create MySQL databases and manage them using homemade Express APIs. I've also tinkered with MongoDB and Mongoose. I've created several React front-ends with responsive stlying. I've also produced testing suites using Jest, Chai, Mocha, Supertest and React Testing Library.
 
-Once I find employment in the industry I'll continue to cultivate my skills in my own time, as much for entertainment as for proffessional reasons. Coding is fun! ^__^
+Once I find employment in the industry I'll continue to cultivate my skills in my own time, as much for entertainment as for proffessional reasons. 
 
+
+### ✏️ Project Planning
+
+As a professional scientist I've a lot of experience of project planning. The profession involves devising solutions to complex problems and selecting optimal routes on the basis of cost, efficiency, urgency and other factors. It encourages careful pre-consideration prior to action. I apply this skill to coding. I take a reasonable amount of time to devise my approach prior to commencing a project.
+
+Flexibility is also vital. Circumstances can change and new information can justify a change of approach mid-project. I'm sufficiently flexible to encorporate new approaches into existing strategy.
 
 ### 
