@@ -18,7 +18,7 @@ collaboration, technical communication and self-tuition.
 
 ### 💻 Technologies
 
-[```Chai```](#) [`CSS`](#) ```Docker``` ```Express``` ```Git``` ```Heroku``` ```HTML``` ```JavaScript``` ```Jest``` ```Mocha``` ```MongoDB``` ```Mongoose``` ```MySQL``` ```MySQL Workbench``` ```Node.JS``` ```Postman``` ```React``` ```React Testing Library``` ```Robo 3T``` ```Sequelize``` ```Supertest``` ```Vercel``` ```VS Code```
+```Chai``` ```CSS``` ```Docker``` ```Express``` ```Git``` ```Heroku``` ```HTML``` ```JavaScript``` ```Jest``` ```Mocha``` ```MongoDB``` ```Mongoose``` ```MySQL``` ```MySQL Workbench``` ```Node.JS``` ```Postman``` ```React``` ```React Testing Library``` ```Robo 3T``` ```Sequelize``` ```Supertest``` ```Vercel``` ```VS Code```
 
 ### 📚 Self-Tuition
 
