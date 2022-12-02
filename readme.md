@@ -1,44 +1,67 @@
 # David Arrowsmith
 
-### [Portfolio](https://gummicode.github.io/personal-profile-react/) | [Linkedin](https://www.linkedin.com/in/david-arrowsmith/) | [Email](dtarrowsmith@gmail.com)
-
+[linkedin](https://www.linkedin.com/in/david-arrowsmith/) | [email](devarrowsmith@gmail.com)
 
 ## Introduction
----
-Following a successful career as a senior research chemist
-I’m seeking my first position as a junior web developer.
 
-I initially coded in JavaScript as a hobbyist. As my skills developed and I got to know people in the industry I came to realise how much I'd love to code professionally. I started an intensive self-training regime, progressing my skills from coding JavaScript functions to developing full-stack apps using contemporary technologies. 
+I'm a software engineer experienced in web development with JavaScript and related technologies.
 
-My career as a scientist endowed me with numerous
-complementary skills such as project design and management,
-collaboration, technical communication and self-tuition.
+I currently work as a Frontend Developer at Twentysix, a digital agency with a diverse portfolio of clients. I help deliver CMS-driven projects such as websites, digital sales aids and training tools.
+
+I work part-time at Manchester Codes, a software development school. I teach JavaScript fundamentals and frontend development with React.
 
 ## Skills
 
-### 💻 Technologies
+`JavaScript` `Vue` `React` `Handlebars` `CSS` `SASS` `Git` `Docker` `Express` `Git` `Heroku` `HTML` `JavaScript` `Jest` `Mocha` `MongoDB` `Mongoose` `MySQL` `MySQL Workbench` `Node.JS` `Postman` `React` `React Testing Library` `Robo 3T` `Sequelize` `Supertest` `Vercel` `VS Code`
 
-```Chai``` ```CSS``` ```Docker``` ```Express``` ```Git``` ```Heroku``` ```HTML``` ```JavaScript``` ```Jest``` ```Mocha``` ```MongoDB``` ```Mongoose``` ```MySQL``` ```MySQL Workbench``` ```Node.JS``` ```Postman``` ```React``` ```React Testing Library``` ```Robo 3T``` ```Sequelize``` ```Supertest``` ```Vercel``` ```VS Code```
+## Experience
 
-### 📚 Self-Tuition
+### **Frontend Developer**
 
-Thanks to the wealth of knowledge shared by the community I've been able to train myself in full-stack development. 
+Twentysix | December 2021 - Present
 
-I started by learning JavaScript, then complemented this with HTML and CSS to produce static pages. I developed my back-end skills, learning to create MySQL databases and interact with them using an Express API. I've also tinkered with MongoDB and Mongoose. I've created several React front-end apps with responsive stlying. I've also produced testing suites using Jest, Mocha, Chai, Supertest and React Testing Library.
+I deliver frontend solutions as part of a close multidisciplinary team.
 
-Once I find employment in the industry I'll continue to cultivate my skills in my own time, as much for entertainment as for professional reasons. 
+Responsibilities:
 
+- Implement designs to specification (Xd, Figma).
+- Implement accessibility features. Raise accessibility concerns.
+- Follow best practices to maintain a clean, readable codebase.
+- Utilise a variety of contemporary & legacy frameworks including React, Vue, Handlebars, Bootstrap & JQuery.
+- Use Gitflow for version control.
+- Create CMS templates to test frontend solutions (Strapi, Optimisely, Umbraco).
+- Maintain documentation (Readmes, Confluence).
+- Participate in planning meetings, refinements and estimations (internal and client-facing).
+- Host team rituals such as stand-ups and retrospectives.
+- Engage in discussions about upcoming technologies and process improvements.
+- Organize fortnightly Lunch & Learns.
 
-### ✏️ Project Planning
+### **Foundation Developer**
 
-As a professional scientist I've a lot of experience of project planning. The profession involves devising solutions to complex problems and selecting optimal routes on the basis of cost, efficiency, urgency and other factors. It encourages careful pre-consideration prior to action. I apply this methodology to coding. I take a reasonable amount of time to devise my approach prior to commencing a project.
+Thinkmoney | July 2021 - December 2021
 
-Flexibility is also vital. Circumstances can change and new information can justify a change of approach mid-project. I'm sufficiently flexible to incorporate new approaches into existing strategy with minimal disruption.
+I assisted in the development of Thinkmoney's online banking platform while undergoing training in the OutSystems low-code platform.
 
-### 🔬 Troubleshooting
+### **Senior Research & Development Chemist**
 
-Errors happen, especially when dealing with unfamiliar technologies, and learning to manage errors is a vital skill. I've a good eye for detail and I'm experienced at determining likely sources of error and methodical debugging. This is a vital skill for a chemist as physical systems can be extremely finicky. This skill translates well into coding.
+Sherwin Williams P&MC | February 2018 - July 2021
 
+I previously worked as a research chemist developing novel industrial coatings.
+
+## Education
+
+- Manchester Codes Software Development Fast-Track  
+  March - September 2021
+
+- Chemistry MSc by Research  
+  University of Manchester | 2016 - 2017
+
+- Chemistry BSc  
+  University of Liverpool | 2006 - 2010
+
+## Interests
+
+`Live Music` `Hiking` `Swimming` `Rockclimbing` `Snowboarding`
 
 ## Projects
 
@@ -52,7 +75,7 @@ The [front-end](https://github.com/GummiCode/tiny-car-list-app) is hosted on Git
 
 ### 🛰️ [NASA Image Search](https://gummicode.github.io/nasa-image-search/)
 
-A search engine for the [NASA Image and Video Library](https://api.nasa.gov/). This React app performs state-based searches of the library using image metadata, parses images from the response body and procedurally renders them. API errors are handled and appropriate alert messages are displayed in the UI. 
+A search engine for the [NASA Image and Video Library](https://api.nasa.gov/). This React app performs state-based searches of the library using image metadata, parses images from the response body and procedurally renders them. API errors are handled and appropriate alert messages are displayed in the UI.
 
 The git repo can be viewed [here](https://github.com/gummicode/nasa-image-search).
 
@@ -61,42 +84,3 @@ The git repo can be viewed [here](https://github.com/gummicode/nasa-image-search
 This app provides a visual representation of people currently in space. Data is fetched from the open-notify.org API and rendered as an animated display. Assets were produced in Affinity Designer. A proxy API was set up to allow the browser to receive HTTP data from open-notify.org.
 
 The git repo can be viewed [here](https://github.com/GummiCode/spacefrens).
-
-
-## Employment
-
-### Senior Research & Development Chemist
-#### *Sherwin-Williams Protective & Marine Coatings (April 2018 - Present)*
-
-* Managed continuous parallel projects.
-* Developed next-generation coatings.
-* Performed client demos.
-
-### Research & Development technician
-#### *Sherwin-Williams Protective & Marine Coatings (February 2018 - April 2018)*
-
-* Prepared intumescent coating samples.
-* Performed furnace trials to test fireproofing
-capabilities.
-
-### Senior Research & Development Chemist
-#### *Tradebe Solvent Recycling Ltd (June 2014 - August 2016)*
-
-* Developed original chemical recycling processes. 
-* Proved methods in lab trials.
-* Facilitated industrial scale-up.
-
-### Research & Development Technician
-#### *Tradebe Solvent Recycling Ltd (May 2011 - June 2014)*
-
-* Analysed diverse chemical waste streams to identify viable recovery routes.
-* Facilitated lab activities.
-
-## Education
-
-### Chemistry MSc by Research
-#### *University of Manchester (2016 - 2017)*
-
-### Chemistry BSc (2:1 Hons.)
-#### *University of Liverpool (2006 - 2010)*
-
