@@ -1,3 +1,3 @@
 ## Skills
 
-`CSS` `Docker` `Express` `Git` `Handlebars` `Heroku` `HTML` `JavaScript` `Jest` `Mocha` `MongoDB` `Mongoose` `MySQL` `MySQL Workbench` `Node.JS` `Postman` `React` `React Testing Library` `Robo 3T` `SASS` `Sequelize` `Supertest` `TypeScript` `Vercel` `VS Code` `Vue`
+`CSS` `Docker` `Express` `Figma` `Git` `Handlebars` `Heroku` `HTML` `Lighthouse` `JavaScript` `Jest` `Jira` `Mocha` `MongoDB` `Mongoose` `MySQL` `Node.JS` `React` `React Testing Library` `SASS` `Sequelize` `Styled Components` `Supertest` `TypeScript` `VS Code` `Vue` `WAVE` `Xd`

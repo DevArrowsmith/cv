@@ -1,6 +1,6 @@
 # David Arrowsmith
 
-[linkedin](https://www.linkedin.com/in/david-arrowsmith/) | [email](devarrowsmith@gmail.com)
+[linkedin](https://www.linkedin.com/in/david-arrowsmith/) | [email](dtarrowsmith@gmail.com)
 
 ## Introduction
 
@@ -12,7 +12,7 @@ I work part-time at Manchester Codes, a software development school. I teach Jav
 
 ## Skills
 
-`CSS` `Docker` `Express` `Git` `Handlebars` `Heroku` `HTML` `JavaScript` `Jest` `Mocha` `MongoDB` `Mongoose` `MySQL` `MySQL Workbench` `Node.JS` `Postman` `React` `React Testing Library` `Robo 3T` `SASS` `Sequelize` `Supertest` `TypeScript` `Vercel` `VS Code` `Vue`
+`CSS` `Docker` `Express` `Figma` `Git` `Handlebars` `Heroku` `HTML` `Lighthouse` `JavaScript` `Jest` `Jira` `Mocha` `MongoDB` `Mongoose` `MySQL` `Node.JS` `React` `React Testing Library` `SASS` `Sequelize` `Styled Components` `Supertest` `TypeScript` `VS Code` `Vue` `WAVE` `Xd`
 
 ## Experience
 
@@ -24,29 +24,63 @@ I deliver frontend solutions as part of a close multidisciplinary team.
 
 Responsibilities:
 
-- Implement designs to specification (Xd, Figma).
-- Implement accessibility features. Raise accessibility concerns.
-- Follow best practices to maintain a clean, readable codebase.
+- Implement designs to specification, as defined in Jira tickets and Xd / Figma designs.
+- Follow accessibility best practices. Raise accessibility concerns.
 - Utilise a variety of contemporary & legacy frameworks including React, Vue, Handlebars, Bootstrap & JQuery.
-- Use Gitflow for version control.
-- Create CMS templates to test frontend solutions (Strapi, Optimisely, Umbraco).
-- Maintain documentation (Readmes, Confluence).
-- Participate in planning meetings, refinements and estimations (internal and client-facing).
+- Create CMS templates to test frontend solutions (Optimisely, Strapi, Umbraco).
+- Follow project-specific Git protocols. Maintain a succinct and descriptive commit history for user-friendly version control.
+- Perform code reviews.
+- Communicate openly with the project manager and wider team, promptly raising questions and issues.
+- Participate in refinements, estimations and planning meetings (internal and client-facing).
 - Host team rituals such as stand-ups and retrospectives.
 - Engage in discussions about upcoming technologies and process improvements.
-- Organize fortnightly Lunch & Learns.
+- Help onboard new starters.
+- Assist colleagues with technical issues.
+- Organize ~fortnightly Lunch & Learns.
 
-### **Foundation Developer**
+<br/>
+
+### **Tutor (Software Development)**
+
+Manchester Codes | January 2022 - Present
+
+Manchester Codes is a software development school. I help deliver their Software Developer Fast Track course, which focusses on web development using JavaScript and related technologies.
+
+Responsibilities:
+
+- Deliver lectures in the following modules:
+
+  **Core:** Development environment setup, Tooling, Git, HTML, CSS & Javascript  
+  **Frontend:** React, Component-based design, State management, Advanced styling
+
+- Create new lectures consisting of presentations, demonstrations and workshops
+- Create GitHub repos for student experimentation
+- Support students via Slack
+- Update content on the learning platform
+- Participate in internal discussions about course content and the school's direction
+
+<br/>
+
+### **Foundation Software Developer**
 
 Thinkmoney | July 2021 - December 2021
 
-I assisted in the development of Thinkmoney's online banking platform while undergoing training in the OutSystems low-code platform.
+I joined Thinkmoney under their Foundation Developer programme, which combined practical development work with a three-month training programme.
+
+Responsibilities:
+
+- Apply updates and bugfixes to the Thinkmoney mobile application.
+- Participate in refinements and estimations.
+- Participate in group training workshops.
+- Complete OutSystems training courses within allocated timeframes.
+
+<br/>
 
 ### **Senior Research & Development Chemist**
 
 Sherwin Williams P&MC | February 2018 - July 2021
 
-I previously worked as a research chemist developing novel industrial coatings.
+Prior to my career as a software developer I worked as a research chemist. At Sherwin-Williams I developed novel functional coatings (paint) for use in heavy industries such as oil & gas refinement, shipping and infrastructure.
 
 ## Education
 
@@ -58,29 +92,3 @@ I previously worked as a research chemist developing novel industrial coatings.
 
 - Chemistry BSc  
   University of Liverpool | 2006 - 2010
-
-## Interests
-
-`Live Music` `Hiking` `Swimming` `Rockclimbing` `Snowboarding`
-
-## Projects
-
-### 🚗 [TinyCarList](https://gummicode.github.io/tiny-car-list-app/#/)
-
-TinyCarList is a mock car listings app. This full-stack project includes a React front-end and a back-end consisting of a MySQL database managed by Express controllers. The front-end procedurally generates listing cards from API datasets.
-
-The UI includes a splash page which displays a featured listing with a nifty slogan, a filterable listings index and a submission form with password authorization. It also has some very neat menus.
-
-The [front-end](https://github.com/GummiCode/tiny-car-list-app) is hosted on GitHub pages. The [back-end](https://github.com/GummiCode/tiny-car-list-api) is on Heroku.
-
-### 🛰️ [NASA Image Search](https://gummicode.github.io/nasa-image-search/)
-
-A search engine for the [NASA Image and Video Library](https://api.nasa.gov/). This React app performs state-based searches of the library using image metadata, parses images from the response body and procedurally renders them. API errors are handled and appropriate alert messages are displayed in the UI.
-
-The git repo can be viewed [here](https://github.com/gummicode/nasa-image-search).
-
-### 👩‍🚀 [SpaceFrens](https://spacefrens.herokuapp.com/)
-
-This app provides a visual representation of people currently in space. Data is fetched from the open-notify.org API and rendered as an animated display. Assets were produced in Affinity Designer. A proxy API was set up to allow the browser to receive HTTP data from open-notify.org.
-
-The git repo can be viewed [here](https://github.com/GummiCode/spacefrens).
