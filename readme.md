@@ -12,7 +12,7 @@ I work part-time at Manchester Codes, a software development school. I teach Jav
 
 ## Skills
 
-`JavaScript` `Vue` `React` `Handlebars` `CSS` `SASS` `Git` `Docker` `Express` `Git` `Heroku` `HTML` `JavaScript` `Jest` `Mocha` `MongoDB` `Mongoose` `MySQL` `MySQL Workbench` `Node.JS` `Postman` `React` `React Testing Library` `Robo 3T` `Sequelize` `Supertest` `Vercel` `VS Code`
+`CSS` `Docker` `Express` `Git` `Handlebars` `Heroku` `HTML` `JavaScript` `Jest` `Mocha` `MongoDB` `Mongoose` `MySQL` `MySQL Workbench` `Node.JS` `Postman` `React` `React Testing Library` `Robo 3T` `SASS` `Sequelize` `Supertest` `TypeScript` `Vercel` `VS Code` `Vue`
 
 ## Experience
 
