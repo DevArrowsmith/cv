@@ -1,18 +1,20 @@
 # David Arrowsmith
 
-[linkedin](https://www.linkedin.com/in/david-arrowsmith/) | [email](dtarrowsmith@gmail.com)
+[linkedin](https://www.linkedin.com/in/david-arrowsmith/) | [email](devarrowsmith@gmail.com)
 
 ## Introduction
 
-I'm a software engineer experienced in web development with JavaScript and related technologies.
+I'm a Software Developer experienced in web development with JavaScript and related technologies.
 
-I currently work as a Frontend Developer at Twentysix, a digital agency with a diverse portfolio of clients. I help deliver CMS-driven projects such as websites, digital sales aids and training tools.
+I currently work as a Frontend Developer at Twentysix, a digital agency with a diverse portfolio of clients.
 
-I work part-time at Manchester Codes, a software development school. I teach JavaScript fundamentals and frontend development with React.
+I help deliver CMS-driven projects such as websites, digital sales aids and training tools. Though my commercial experience is frontend-focussed I'm comfortable working across the stack.
+
+I also work part-time at [Command Shift](https://www.commandshift.co), a software development bootcamp. I teach web development fundamentals, and frontend development with React.
 
 ## Skills
 
-`CSS` `Docker` `Express` `Figma` `Git` `Handlebars` `Heroku` `HTML` `Lighthouse` `JavaScript` `Jest` `Jira` `Mocha` `MongoDB` `Mongoose` `MySQL` `Node.JS` `React` `React Testing Library` `SASS` `Sequelize` `Styled Components` `Supertest` `TypeScript` `VS Code` `Vue` `WAVE` `Xd`
+`CSS` `Docker` `Express` `Figma` `Git` `Handlebars` `HTML` `Lighthouse` `JavaScript` `Jest` `Jira` `Mocha` `MongoDB` `Mongoose` `MySQL` `Node.JS` `React` `React Testing Library` `SASS` `Sequelize` `Styled Components` `Supertest` `TypeScript` `VS Code` `Vue` `WAVE` `Xd`
 
 ## Experience
 
@@ -20,23 +22,23 @@ I work part-time at Manchester Codes, a software development school. I teach Jav
 
 Twentysix | December 2021 - Present
 
-I deliver frontend solutions as part of a close multidisciplinary team.
+Twentysix is a digital agency with a diverse portfolio of clients. I help deliver frontend solutions as part of a multidisciplinary team.
 
 Responsibilities:
 
-- Implement designs to specification, as defined in Jira tickets and Xd / Figma designs.
-- Follow accessibility best practices. Raise accessibility concerns.
-- Utilise a variety of contemporary & legacy frameworks including React, Vue, Handlebars, Bootstrap & JQuery.
-- Create CMS templates to test frontend solutions (Optimisely, Strapi, Umbraco).
-- Follow project-specific Git protocols. Maintain a succinct and descriptive commit history for user-friendly version control.
-- Perform code reviews.
-- Communicate openly with the project manager and wider team, promptly raising questions and issues.
+- Contribute to projects such as new website builds and redesigns. I act as the primary frontend developer for a current new build.
+- Complete Business-as-Usual (BAU) work such as bugfixes, minor changes and new features.
+- Work with a variety of frameworks such as React, Vue and Bootstrap. Learn new technologies as required.
+- Implement designs and behaviors to specification, as defined in Jira tickets and XD/Figma templates.
+- Follow accessibility best practices and raise accessibility concerns.
+- Work with the Backend team to define interfaces between the frontend and CMS/APIs.
 - Participate in refinements, estimations and planning meetings (internal and client-facing).
-- Host team rituals such as stand-ups and retrospectives.
-- Engage in discussions about upcoming technologies and process improvements.
+- Assist colleagues with technical and other issues.
 - Help onboard new starters.
-- Assist colleagues with technical issues.
-- Organize ~fortnightly Lunch & Learns.
+- Attend interviews for new developers.
+- Perform code reviews.
+- Create documentation to facilitate project handover.
+- Host team rituals such as stand-ups and retrospectives.
 
 <br/>
 
@@ -51,11 +53,11 @@ Responsibilities:
 - Deliver lectures in the following modules:
 
   **Core:** Development environment setup, Tooling, Git, HTML, CSS & Javascript  
-  **Frontend:** React, Component-based design, State management, Advanced styling
+  **Frontend:** React, React Testing Library, React Router, Sass, User Authentication
 
 - Create new lectures consisting of presentations, demonstrations and workshops
-- Create GitHub repos for student experimentation
-- Support students via Slack
+- Create demo repos for student experimentation
+- Support students by answering technical questions, helping them solve problems, and providing advice on best practices and ways of working.
 - Update content on the learning platform
 - Participate in internal discussions about course content and the school's direction
 
@@ -65,14 +67,14 @@ Responsibilities:
 
 Thinkmoney | July 2021 - December 2021
 
-I joined Thinkmoney under their Foundation Developer programme, which combined practical development work with a three-month training programme.
+I joined Thinkmoney through their Foundation Developer programme, which combined practical development work with a three-month training programme.
 
 Responsibilities:
 
 - Apply updates and bugfixes to the Thinkmoney mobile application.
 - Participate in refinements and estimations.
 - Participate in group training workshops.
-- Complete OutSystems training courses within allocated timeframes.
+- Complete OutSystems training courses within allocated timeframes. OutSystems is a low-code platform for website and app development.
 
 <br/>
 
@@ -92,3 +94,10 @@ Prior to my career as a software developer I worked as a research chemist. At Sh
 
 - Chemistry BSc  
   University of Liverpool | 2006 - 2010
+
+## This Project
+
+### Dependencies
+
+- [Marked](https://www.npmjs.com/package/marked)  
+  Lightweight markdown compiler

@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "marked": "^4.2.3",
+    "md-to-pdf": "^5.2.0"
+  },
+  "scripts": {
+    "build-md": "concat-md --hide-anchor-links sections > readme.md",
+    "build-pdf": "md-to-pdf readme.md",
+    "build-full": "npm run build-md && npm run build-pdf"
+  }
+}
