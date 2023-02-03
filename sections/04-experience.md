@@ -1,21 +1,3 @@
-# David Arrowsmith
-
-[linkedin](https://www.linkedin.com/in/david-arrowsmith/) | [email](devarrowsmith@gmail.com)
-
-## Introduction
-
-I'm a Software Developer experienced in web development with JavaScript and related technologies.
-
-I currently work as a Frontend Developer at Twentysix, a digital agency with a diverse portfolio of clients.
-
-I help deliver CMS-driven projects such as websites, digital sales aids and training tools. Though my commercial experience is frontend-focussed I'm comfortable working across the stack.
-
-I also work part-time at [Command Shift](https://www.commandshift.co), a software development bootcamp. I teach web development fundamentals, and frontend development with React.
-
-## Skills
-
-`CSS` `Docker` `Express` `Figma` `Git` `Handlebars` `HTML` `Lighthouse` `JavaScript` `Jest` `Jira` `Mocha` `MongoDB` `Mongoose` `MySQL` `Node.JS` `React` `React Testing Library` `SASS` `Sequelize` `Styled Components` `Supertest` `TypeScript` `VS Code` `Vue` `WAVE` `Xd`
-
 ## Experience
 
 ### **Frontend Developer**
@@ -83,21 +65,3 @@ Responsibilities:
 Sherwin Williams P&MC | February 2018 - July 2021
 
 Prior to my career as a software developer I worked as a research chemist. At Sherwin-Williams I developed novel functional coatings (paint) for use in heavy industries such as oil & gas refinement, shipping and infrastructure.
-
-## Education
-
-- Manchester Codes Software Development Fast-Track  
-  March - September 2021
-
-- Chemistry MSc by Research  
-  University of Manchester | 2016 - 2017
-
-- Chemistry BSc  
-  University of Liverpool | 2006 - 2010
-
-## This Project
-
-### Dependencies
-
-- [Marked](https://www.npmjs.com/package/marked)  
-  Lightweight markdown compiler
